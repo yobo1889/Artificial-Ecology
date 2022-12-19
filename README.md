@@ -1,1 +1,1 @@
-# Artificial-Ecology
+The red species are predators and they are required to have 41 points inorder to produce an offspring. The blue species are the prey and they are required to have 27 points to reproduce. What they are doing is basically fighting for space within the grid. If the surrounding grids are occupied and the organism don't have enough points to reproduce they disapear. The Red organism is designed to eliminate any blue organism that is located above or below its gird making it the predator.
